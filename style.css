@@ -1,4 +1,14 @@
-h1 *
+table *
 {
-    text-align: center;
+    border: 2px;
+    border-collapse: collapse;
+border-style: solid
+;
+}
+table 
+{
+    border: 2px;
+    border-collapse: collapse;
+border-style: solid
+;
 }
